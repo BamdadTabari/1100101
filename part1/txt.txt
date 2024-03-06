@@ -2,3 +2,5 @@ hello friend.
 I'm gonna build you
 and you gonna build me
 we gonna be one 
+
+note: use phind web. and sign in with github. it always keep your search data
