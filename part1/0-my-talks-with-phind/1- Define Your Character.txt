@@ -2,7 +2,10 @@
 ok, let's do this step by step. how to Define Your Character? Should I write it in a text file?
 
 ****** Phind:
-Defining your character is a crucial step in creating a personalized AI chatbot. It involves capturing the essence of the character in a way that can be easily understood and replicated by the AI. Here's how you can go about defining your character, with a focus on writing it in a text file for clarity and organization:
+Defining your character is a crucial step in creating a personalized AI chatbot. 
+It involves capturing the essence of the character in a way that can be easily understood and 
+replicated by the AI. Here's how you can go about defining your character, 
+with a focus on writing it in a text file for clarity and organization:
 
 ### Step 1: Gather Information
 
